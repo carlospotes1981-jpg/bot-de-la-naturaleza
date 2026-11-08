@@ -66,4 +66,4 @@ async def temas(ctx):
     else:
         await ctx.send("Opción incorrecta. Escribe 1, 2 o 3.")
     
-bot.run("MTU1OTM2NzUzMjMyOTA0MjAyMw.G6xW-V.vUnFq-XKKeBjSfdcgsyeTeL4bqaOpg6Sb3ojRo")
+bot.run("")
